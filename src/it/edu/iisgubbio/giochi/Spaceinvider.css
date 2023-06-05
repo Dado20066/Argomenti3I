@@ -1,0 +1,11 @@
+#Label {
+-fx-font-size:20pt;
+-fx-text-fill:WHITE;	
+}
+
+#sfondo{
+	-fx-background-image: url("1.jpg");
+	}
+	
+
+
